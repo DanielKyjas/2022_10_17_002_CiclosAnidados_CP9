@@ -8,21 +8,6 @@
 
 int main()
 {
-	/*
-	std::string Color_CP1 = "Rubio";
-	std::string Color_CP2 = "Pelirrojo";
-	std::string Color_OP1 = "Azules";
-	std::string Color_OP2 = "Marrones";
-	if (Color_CP1 == "Rubio")
-	{
-		std::cout << "Tus personajes tienen color Rubio" << std::endl;
-		if (Color_OP1 == "Azules")
-		{
-			std::cout << "Tus personajes tiene el color azul" << std::endl;
-			std::cout << "Tu personaje es trump";
-		}
-	}
-	*/
 	int arreglo[3] = { 1,2,3 };
 	//Ciclo para monstrar el arreglo simple
 	for (int i = 0; i < 3; i++)
